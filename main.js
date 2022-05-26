@@ -140,14 +140,14 @@
 // } 
 // }
 // numbersUntilhundred()
+
 // function avgAndsum(){
 //  var num = 0;
 //  var sum = 0;
 //  while(num<5){
 //  var number = +prompt('sign your number')
 //      sum += number
-//      num++
-    
+//      num++   
 //      if(num % 2 == 0){
 //         var avg = sum /num 
 //          }
@@ -156,4 +156,21 @@
 //      console.log(avg)
 //  }
 //  avgAndsum()
+
+// function oneTohundred(){
+// for(var i =0; i<101; i++){
+//     if(i<101){
+//         console.log(i)
+//        }
+//     }
+// }
+// oneTohundred()
+
+function avgAndsum() {  
+    for(var i=0; i<5; i++){
+        
+    }
+}
+
+
 
